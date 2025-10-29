@@ -22,7 +22,6 @@ nav a {
 }
 
 .posts ul {
-    list-style: none;
     padding: 0;
 }
 
@@ -68,4 +67,5 @@ footer {
         font-size: 14px;
         padding: 8px;
     }
+
 }
